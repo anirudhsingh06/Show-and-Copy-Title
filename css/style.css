@@ -1,0 +1,62 @@
+body {
+  width: 150px;
+  margin: 10px;
+  color: rgb(230, 203, 203) 0;
+  background-image: url("../icons/backgrnd.jpg");
+
+}
+
+button {
+  font-size: 20px;
+  text-align: center;
+
+
+}
+
+.url {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+}
+
+.author {
+  text-align: center;
+}
+
+
+button {
+  display: inline-block;
+  padding: 8px;
+  margin: 5px;
+  height: 30px;
+  min-width: 120px;
+
+  border: none;
+  outline: none;
+  color: black;
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 14px;
+  border-radius: 12px;
+
+}
+
+button:hover {
+  background: #000000;
+  color: #fff;
+  box-shadow: 0 4px 1px #0b0606;
+  border-bottom: 2px solid #000000;
+  transition: all 0.1s ease-in;
+}
+
+button:active {
+  transform: translateY(4px);
+  border-bottom-width: 2px;
+  box-shadow: none;
+}

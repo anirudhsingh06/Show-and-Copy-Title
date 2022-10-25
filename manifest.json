@@ -1,0 +1,23 @@
+{
+  "name": "Title Pop Up",
+  "version": "1.0",
+  "description": "Chrome extension to copy current title and show it in popup",
+  "author": "Anirudh Singh",
+  "browser_action": {
+    "default_icon": "icons/extension_icon-64.png",
+    "default_popup": "popup.html",
+    "default_title": "TitlePopUp"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "icons": {
+    "64": "icons/extension_icon-64.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "manifest_version": 2
+}
