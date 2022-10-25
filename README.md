@@ -1,7 +1,7 @@
 # Titlecopy
 
 <p align="center">
-         <img src = "https://github.com/anirudhsingh06/Show-and-Copy-Title/master/screenshot/img.png">
+         <img src = "https://github.com/anirudhsingh06/Show-and-Copy-Title/blob/main/screenshot/img.png">
 </p>
 
 A Simple Chrome extension to copy current tab title with a click. This is out of frustation of copy pasting titles from chrome tab.
